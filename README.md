@@ -1,16 +1,47 @@
-## Hi there 👋
+# 💻 Termux / MrTermux
 
-<!--
-**termuxcay/Termuxcay** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+```bash
+> initializing profile...
+> access granted
+```
 
-Here are some ideas to get you started:
+## 👋 Sobre mim
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+💻 Desenvolvedor focado em **Go** e **Python**
+🧠 Interesses em **IA, automação e sistemas**
+🔎 Curioso sobre **falhas de segurança, bugs e funcionamento interno de sistemas**
+🧩 Autista nível 2 (hiperfoco em tecnologia ajuda bastante nisso)
+
+Tenho mais de **10 anos explorando hacking, segurança e comportamento de sistemas**, sempre tentando entender **como as coisas quebram para aprender como funcionam**.
+
+## ⚙️ Tecnologias
+
+🐹 Go
+🐍 Python
+🧠 AI / Automação
+⚙️ Frontend e ferramentas
+
+## 🚀 Atualmente
+
+🔭 Trabalhando no repositório **AstFlye**
+
+## 🧪 Interesses
+
+🐞 bug hunting
+🔓 estudo de vulnerabilidades
+⚡ exploração de sistemas
+🛠 engenharia reversa por curiosidade
+
+## ⚡ Fatos aleatórios
+
+💻 +10 anos explorando hacking e segurança
+🧠 gosto de entender como sistemas falham
+⚙️ curto criar ferramentas e experimentos
+
+```bash
+status: online
+mode: building
+```
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=termuxcay&show_icons=true&theme=radical)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=termuxcay&show_icons=true&theme=radical)](https://github.com/termuxcay/github-readme-stats)
+
