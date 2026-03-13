@@ -47,4 +47,6 @@ mode: building
 
 ## 🐍 Snake dos commits
 
-![snake](https://github.com/SEUUSUARIO/SEUUSUARIO/blob/output/github-contribution-grid-snake.svg)
+<p align="center">
+<img src="https://github.com/termuxcay/termuxcay/blob/output/github-snake-neon.svg">
+</p>
