@@ -1,51 +1,22 @@
 # 💻 Termux / MrTermux
 
 ```bash
-> initializing profile...
 > access granted
+status: building systems
 ```
 
-## 👋 Sobre mim
+💻 Dev **Go / Python** • 🧠 **AI & Automação**
+🔎 Curioso sobre **bugs, vulnerabilidades e sistemas**
+🧩 Autista nível 2 • **10+ anos explorando hacking & segurança**
 
-💻 Desenvolvedor focado em **Go** e **Python**
-🧠 Interesses em **IA, automação e sistemas**
-🔎 Curioso sobre **falhas de segurança, bugs e funcionamento interno de sistemas**
-🧩 Autista nível 2 (hiperfoco em tecnologia ajuda bastante nisso)
+🚀 Trabalhando atualmente no **AstFlye**
 
-Tenho mais de **10 anos explorando hacking, segurança e comportamento de sistemas**, sempre tentando entender **como as coisas quebram para aprender como funcionam**.
+⚙️ **Stack:** Go • Python • AI • Tools
 
-## ⚙️ Tecnologias
+![stats](https://github-readme-stats.vercel.app/api?username=termuxcay\&show_icons=true\&theme=radical\&hide_border=true)
+![langs](https://github-readme-stats.vercel.app/api/top-langs/?username=termuxcay\&layout=compact\&theme=radical\&hide_border=true)
 
-🐹 Go
-🐍 Python
-🧠 AI / Automação
-⚙️ Frontend e ferramentas
-
-## 🚀 Atualmente
-
-🔭 Trabalhando no repositório **AstFlye**
-
-## 🧪 Interesses
-
-🐞 bug hunting
-🔓 estudo de vulnerabilidades
-⚡ exploração de sistemas
-🛠 engenharia reversa por curiosidade
-
-## ⚡ Fatos aleatórios
-
-💻 +10 anos explorando hacking e segurança
-🧠 gosto de entender como sistemas falham
-⚙️ curto criar ferramentas e experimentos
-
-```bash
-status: online
-mode: building
-```
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=termuxcay&show_icons=true&theme=radical)
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=termuxcay&show_icons=true&theme=radical)](https://github.com/termuxcay/github-readme-stats)
-
-## 🐍 Snake dos commits
+## 🐍 Commits
 
 <p align="center">
 <img src="https://github.com/termuxcay/termuxcay/blob/output/github-snake-neon.svg">
